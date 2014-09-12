@@ -1,0 +1,17 @@
+.container.header{
+	margin-top: 70px;
+}
+
+img{
+	/*width: 200px;*/
+	max-width: 100%;
+}
+
+img.logo {
+  display: block;
+  margin: 0 auto 50px;
+}
+
+.glyphicon{
+	margin-right: 15px;
+}
